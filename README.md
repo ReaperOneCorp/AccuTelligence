@@ -10,7 +10,7 @@ This section is coming soon, Please check back if anything has updated.
 
 **MIT License**
 
-Copyright (c) 2025 Reaper One Studios'
+Copyright (c) 2025 Reaper One Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
